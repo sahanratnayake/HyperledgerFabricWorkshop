@@ -1,7 +1,7 @@
-# Welcome to the Hyperledger Fabric Blockchain Workshop By BLOCKSupplAI
+# Guide to Setup Hyperledger Fabric Blockchain network, RestAPI and WebApp
 
 ***
-## Follow these step by step to proceed with the workshop 
+## Outline
 
 ### 1. [ Hyperledger Fabric Setup ](https://github.com/sahanratnayake/in5BlockchainWorkshopByBLOCKSupplAI/wiki/Section-1---Hyperledger-Fabric-Setup)
 In this section you will learn how to deploy Hyperledger Fabric blockchain network into a Ubuntu machine
