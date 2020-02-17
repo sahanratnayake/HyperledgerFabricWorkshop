@@ -1,4 +1,4 @@
-# Guide to Setup Hyperledger Fabric Blockchain network, RestAPI and WebApp
+# Guide to Setup Hyperledger Fabric 1.4.x Blockchain network, RestAPI and WebApp
 
 ***
 ## Outline
